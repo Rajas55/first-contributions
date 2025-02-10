@@ -44,6 +44,7 @@
 - [Lena Andjelkovic](https://github.com/lenicqq)
 - [joothy](https://github.com/thikshathajoothy)
 - [Teja](https://github.com/Billakanti-Teja)
+- [Rajas Yardi](https://github.com/Rajas55) - Hey Guys, What's Happening!
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
 - [Uchi Fiti](https://github.com/uchi-fiti) Hi everyone, this is my first contribution. I hope to see more 🇲🇬 people here :)
